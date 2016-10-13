@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/moretea/docker-machine-qemu"
+	"github.com/moretea/docker-machine-driver-qemu"
 	"github.com/docker/machine/libmachine/drivers/plugin"
 )
 
