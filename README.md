@@ -1,4 +1,4 @@
-# docker-machine-kvm
+# docker-machine-qemu
 KVM driver for docker-machine
 
 This driver leverages the new [plugin architecture](https://github.com/docker/machine/issues/1626) being
